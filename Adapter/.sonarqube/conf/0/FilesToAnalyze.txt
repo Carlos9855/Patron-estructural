@@ -1,0 +1,5 @@
+﻿C:\Users\josec\Desktop\Patron_Estructural\Adapter\Adapter\Client.cs
+C:\Users\josec\Desktop\Patron_Estructural\Adapter\Adapter\ITarget.cs
+C:\Users\josec\Desktop\Patron_Estructural\Adapter\Adapter\Program.cs
+C:\Users\josec\Desktop\Patron_Estructural\Adapter\Adapter\StockSystem.cs
+C:\Users\josec\Desktop\Patron_Estructural\Adapter\Adapter\VehicleAdapter.cs
